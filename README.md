@@ -33,6 +33,7 @@
 - Source code đính kèm sử dụng Arduino Platform để lập trình cho hệ thống. Các bạn có thể sử dụng bất kì vi điều khiển thuộc nền tảng Arduino nào để sửa chữa lại cho hệ thống (nếu cần).
 - Cách liên kết mạch được đính kèm trong folder Diagrams các bạn có thể tham khảo để sửa chữa khi cần thiết. 💌
 
+![image](https://user-images.githubusercontent.com/48848418/82853099-e9ea9b80-9f2e-11ea-8160-1380144efb30.png)
 ![13bc0d415fe5a5bbfcf4](https://user-images.githubusercontent.com/48848418/82749157-7aab6500-9dd1-11ea-8caf-159532521c4f.jpg)
 
 `` Chúc các bạn thành công! Mọi thắc mắc về sản phẩm xin liên hệ Thanh Tùng - 0912.522.913 ``
